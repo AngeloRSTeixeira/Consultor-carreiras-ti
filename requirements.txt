@@ -1,0 +1,6 @@
+streamlit>=1.30
+frozendict>=2.3
+schema>=0.7
+pytest>=7.0
+# A biblioteca experta é instalada à parte, com --no-deps (veja o README):
+# pip install experta==1.9.4 --no-deps
