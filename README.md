@@ -3,6 +3,8 @@
 Sistema Especialista baseado em Regras, feito em Python com **Experta** (motor de inferência com encadeamento para frente) e **Streamlit** (interface web). O sistema entrevista o usuário com 8 perguntas objetivas e recomenda uma entre **10 trilhas de carreira em TI**, mostrando as regras que levaram à conclusão.
 
 > Trabalho da disciplina de Inteligência Artificial — Ciência da Computação, UNIPAC Barbacena.
+>
+> **Aluno:** Angelo Ricardo de Souza Teixeira · **Professor:** Felipe Roncalli de Paula Carneiro
 
 ## Trilhas cobertas
 
@@ -49,7 +51,7 @@ consultor-carreiras-ti/
 Requer **Python 3.10 ou superior**.
 
 ```bash
-git clone https://github.com/SEU-USUARIO/consultor-carreiras-ti.git
+git clone https://github.com/AngeloRSTeixeira/consultor-carreiras-ti.git
 cd consultor-carreiras-ti
 
 # (opcional) ambiente virtual
